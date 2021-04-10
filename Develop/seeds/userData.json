@@ -18,20 +18,5 @@
         "name": "Cody",
         "email": "Codyster123@email.com",
         "password": "something123"
-    },
-    {
-        "name": "Rebecca",
-        "email": "Rebeccaster123@email.com",
-        "password": "something123"
-    },
-    {
-        "name": "Dylan",
-        "email": "Dylanster123@email.com",
-        "password": "something123"
-    },
-    {
-        "name": "Morgan",
-        "email": "Morganster123@email.com",
-        "password": "something123"
     }
 ]

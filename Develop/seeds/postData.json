@@ -1,44 +1,44 @@
 [
     {
+        "id": 1,
         "title": "Hello world",
         "description": "It is I, George Lucas, and I am here to give you a terrible film",
-        "date_created": "11/13/2020",
-        "user_id": 3
-    },
-    {
-        "title": "Happy Earth Day",
-        "description": "Don't throw straws into the ocean plz",
-        "date_created": "10/23/2020",
-        "user_id": 5
-    },
-    {
-        "title": "New Car!",
-        "description": "Only 632 miles, used interior, no shifter and three wheels",
-        "date_created": "12/15/2020",
-        "user_id": 2
-    },
-    {
-        "title": "Pets",
-        "description": "I adopted a pet snake the other day, now I can't find my hamster",
-        "date_created": "11/25/2020",
         "user_id": 1
     },
     {
-        "title": "The Holidays",
-        "description": "If I have to watch one more hallmark movie I will light this place up like rudolph",
-        "date_created": "01/09/2020",
+        "id": 2,
+        "title": "Happy Earth Day",
+        "description": "Don't throw straws into the ocean plz",
+        "user_id": 2
+    },
+    {
+        "id": 3,
+        "title": "New Car!",
+        "description": "Only 632 miles, used interior, no shifter and three wheels",
+        "user_id": 3
+    },
+    {
+        "id": 4,
+        "title": "Pets",
+        "description": "I adopted a pet snake the other day, now I can't find my hamster",
         "user_id": 4
     },
     {
-        "title": "Government",
-        "description": "I hate taxes",
-        "date_created": "4/3/2020",
-        "user_id": 7
+        "id": 5,
+        "title": "The Holidays",
+        "description": "If I have to watch one more hallmark movie I will light this place up like rudolph",
+        "user_id": 5
     },
     {
+        "id": 6,
+        "title": "Government",
+        "description": "I hate taxes",
+        "user_id": 6
+    },
+    {
+        "id": 7,
         "title": "Fitness Guru",
         "description": "Looking for a guru who is fit in your area",
-        "date_created": "9/20/2020",
-        "user_id": 6
+        "user_id": 7
     }
 ]
